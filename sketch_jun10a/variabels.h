@@ -1,0 +1,13 @@
+bool tmpSaklar = false;
+bool saklarState = true;
+bool virtSaklar = false;
+unsigned long saklarMillis = 0;
+unsigned long setMillisSaklar = 0;
+unsigned long setMillisAlarm = 0;
+unsigned long timeMillis = 0;
+unsigned long getAlarmState = 0;
+String HourMunite;
+int currentHour;
+int currentMinute;
+int alarmType;
+String timeSetAlarm = "";
